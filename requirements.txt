@@ -1,6 +1,6 @@
 certifi==2022.12.7
 charset-normalizer==3.0.1
-coverage>=7.3.4
+coverage==7.3.4
 cpplint==1.6.1
 exceptiongroup==1.2.0
 flake8==6.1.0
